@@ -1,0 +1,24 @@
+{
+  "name": "exoSiteBootstrap2",
+  "version": "1.0.0",
+  "description": "Créer un site web uniquement avec Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEVERECLICK-dev/exoSiteBootstrap2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SEVERECLICK-dev/exoSiteBootstrap2/issues"
+  },
+  "homepage": "https://github.com/SEVERECLICK-dev/exoSiteBootstrap2#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
+  }
+}
